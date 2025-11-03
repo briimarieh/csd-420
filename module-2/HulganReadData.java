@@ -6,6 +6,13 @@ Module 2 Assignment 1
 A program that reads a file and displays the data
 */
 
+/*
+Resources
+W3Schools. “Java Arrays.” W3schools.com, 2019, www.w3schools.com/java/java_arrays.asp.
+“W3Schools.com.” W3schools.com, 2025, www.w3schools.com/java/java_bufferedreader.asp.
+‌“W3Schools.com.” W3schools.com, 2025, www.w3schools.com/java/java_files_write.asp.
+*/
+
 // Import classes
 import java.io.BufferedReader;
 import java.io.FileReader;

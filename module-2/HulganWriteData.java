@@ -7,6 +7,13 @@ A program that stores an array of five random integers
 and an array of five random doubles
 */
 
+/*
+Resources
+W3Schools. “Java Arrays.” W3schools.com, 2019, www.w3schools.com/java/java_arrays.asp.
+“W3Schools.com.” W3schools.com, 2025, www.w3schools.com/java/java_bufferedreader.asp.
+‌“W3Schools.com.” W3schools.com, 2025, www.w3schools.com/java/java_files_write.asp.
+*/
+
 // Import classes
 import java.io.FileWriter;
 import java.io.IOException;
