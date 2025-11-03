@@ -8,7 +8,6 @@ and an array of five random doubles
 */
 
 // Import classes
-import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Random;
